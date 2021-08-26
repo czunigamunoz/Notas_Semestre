@@ -1,0 +1,7 @@
+Calculo III;2;0;;
+Programacion;4.5;;;
+Teoria de Grafos;4.2;4.5;;
+Ingles;4.6;5;;
+Fund. de Investigación;3.7;2.8;;
+Fisca II;5;;;
+Teoria de Sistemas;4.5;4.4;;

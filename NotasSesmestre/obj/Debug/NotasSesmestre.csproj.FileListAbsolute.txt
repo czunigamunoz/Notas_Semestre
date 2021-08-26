@@ -1,0 +1,55 @@
+E:\Alg\programs\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.exe.config
+E:\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csprojResolveAssemblyReference.cache
+E:\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.Form1.resources
+E:\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.Properties.Resources.resources
+E:\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csproj.GenerateResource.Cache
+E:\Alg\programs\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.exe
+E:\Alg\programs\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.pdb
+E:\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.exe
+E:\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.pdb
+D:\Alg\programs\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.exe.config
+D:\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.exe
+D:\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.pdb
+D:\Alg\programs\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.exe
+D:\Alg\programs\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.pdb
+D:\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csprojResolveAssemblyReference.cache
+D:\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.Form1.resources
+D:\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.Properties.Resources.resources
+D:\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csproj.GenerateResource.Cache
+D:\Alg\programs\testing\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.exe.config
+D:\Alg\programs\testing\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.exe
+D:\Alg\programs\testing\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.pdb
+D:\Alg\programs\testing\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.exe
+D:\Alg\programs\testing\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.pdb
+D:\Alg\programs\testing\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csprojResolveAssemblyReference.cache
+D:\Alg\programs\testing\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.Form1.resources
+D:\Alg\programs\testing\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.Properties.Resources.resources
+D:\Alg\programs\testing\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csproj.GenerateResource.Cache
+C:\Users\krlos\Documents\UNIVERSIDAD\zBACKUP\Alg\programs\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.exe.config
+C:\Users\krlos\Documents\UNIVERSIDAD\zBACKUP\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.exe
+C:\Users\krlos\Documents\UNIVERSIDAD\zBACKUP\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.pdb
+C:\Users\krlos\Documents\UNIVERSIDAD\zBACKUP\Alg\programs\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.exe
+C:\Users\krlos\Documents\UNIVERSIDAD\zBACKUP\Alg\programs\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.pdb
+C:\Users\krlos\Documents\UNIVERSIDAD\zBACKUP\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csprojResolveAssemblyReference.cache
+C:\Users\krlos\Documents\UNIVERSIDAD\zBACKUP\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.Form1.resources
+C:\Users\krlos\Documents\UNIVERSIDAD\zBACKUP\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.Properties.Resources.resources
+C:\Users\krlos\Documents\UNIVERSIDAD\zBACKUP\Alg\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csproj.GenerateResource.Cache
+C:\Users\krlos\Documents\UNIVERSIDAD\TERCER SEMESTRE\PROGRAMACION\programs\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.exe.config
+C:\Users\krlos\Documents\UNIVERSIDAD\TERCER SEMESTRE\PROGRAMACION\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.exe
+C:\Users\krlos\Documents\UNIVERSIDAD\TERCER SEMESTRE\PROGRAMACION\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.pdb
+C:\Users\krlos\Documents\UNIVERSIDAD\TERCER SEMESTRE\PROGRAMACION\programs\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.exe
+C:\Users\krlos\Documents\UNIVERSIDAD\TERCER SEMESTRE\PROGRAMACION\programs\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.pdb
+C:\Users\krlos\Documents\UNIVERSIDAD\TERCER SEMESTRE\PROGRAMACION\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csprojResolveAssemblyReference.cache
+C:\Users\krlos\Documents\UNIVERSIDAD\TERCER SEMESTRE\PROGRAMACION\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.Form1.resources
+C:\Users\krlos\Documents\UNIVERSIDAD\TERCER SEMESTRE\PROGRAMACION\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.Properties.Resources.resources
+C:\Users\krlos\Documents\UNIVERSIDAD\TERCER SEMESTRE\PROGRAMACION\programs\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csproj.GenerateResource.Cache
+C:\Users\cezun\Documents\Proyectos\proyectos_c#\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.exe.config
+C:\Users\cezun\Documents\Proyectos\proyectos_c#\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.exe
+C:\Users\cezun\Documents\Proyectos\proyectos_c#\NotasSesmestre\NotasSesmestre\bin\Debug\NotasSesmestre.pdb
+C:\Users\cezun\Documents\Proyectos\proyectos_c#\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csprojAssemblyReference.cache
+C:\Users\cezun\Documents\Proyectos\proyectos_c#\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.Form1.resources
+C:\Users\cezun\Documents\Proyectos\proyectos_c#\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.Properties.Resources.resources
+C:\Users\cezun\Documents\Proyectos\proyectos_c#\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csproj.GenerateResource.cache
+C:\Users\cezun\Documents\Proyectos\proyectos_c#\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.csproj.CoreCompileInputs.cache
+C:\Users\cezun\Documents\Proyectos\proyectos_c#\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.exe
+C:\Users\cezun\Documents\Proyectos\proyectos_c#\NotasSesmestre\NotasSesmestre\obj\Debug\NotasSesmestre.pdb
